@@ -1,0 +1,8 @@
+litellm
+deepgram
+playsound
+google-generativeai
+Pillow
+pyperclip
+python-dotenv
+colorama
