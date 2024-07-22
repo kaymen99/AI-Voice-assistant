@@ -10,7 +10,7 @@ from utils.text_to_speech import TTS
 load_dotenv()
 
 class ConversationManager:
-    def __init__(model, self):
+    def __init__(self, model):
         self.transcription_response = ""
         self.assistant = Agent(
                             name="AI Assistant",
